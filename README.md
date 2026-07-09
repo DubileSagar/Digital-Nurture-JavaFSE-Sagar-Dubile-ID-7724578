@@ -1,4 +1,4 @@
-# Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (Java FSE) Upskilling Program
+# Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (Java FSE) Deepskilling Program
 
 This repository contains my solutions, assignments, and hands-on exercises completed as part of the **Cognizant Digital Nurture 5.0 (DN 5.0) Java Full Stack Engineer Upskilling Program**.
 
